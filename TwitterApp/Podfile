@@ -1,0 +1,15 @@
+# Uncomment this line to define a global platform for your project
+platform :ios, '8.0'
+
+target 'TwitterApp' do
+
+  pod 'AFNetworking', '2.4.1'
+  pod 'BDBOAuth1Manager', '1.4.0'
+  pod 'SVProgressHUD'
+
+end
+
+target 'TwitterAppTests' do
+
+end
+
