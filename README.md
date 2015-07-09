@@ -6,7 +6,7 @@ Time spent: `<24 hours spent>`
 
 ### Features
 
-#### Required - Hamburger menu
+#### Required - 
 
 - [*] Hamburger menu - Dragging anywhere in the view should reveal the menu. 
 - [*] Hamburger menu - The menu should include links to your profile, the home timeline, and the mentions view.
